@@ -1,0 +1,10 @@
+* parseq
+
+Parseq is a library for Common Lisp used for parsing sequences such as strings and lists using parsing expression grammars.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mrossini-ethz/parseq.git   |
+| commit  | c14dc4c  |
+| systems | parseq |
+|---------+-------------------------------------------|
+
